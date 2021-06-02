@@ -1,0 +1,9 @@
+[package]
+name = "going_to_zero_or_to_infinity"
+version = "0.1.0"
+authors = ["Eric Zhu <cupofc0t@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
